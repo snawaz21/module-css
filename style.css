@@ -1,0 +1,10 @@
+.extarnal{
+    color:red;
+    text-align: center;
+}
+a{
+    display: block;
+}
+ul li{
+    display:inline-block;
+}
